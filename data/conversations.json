@@ -1,7 +1,14 @@
 [
-  {"question": "hello", "answer": "Hello. How can I help you today?"},
-  {"question": "hi", "answer": "Hi there! How are you doing?"},
-  {"question": "bye", "answer": "Goodbye. Have a nice day."},
-  {"question": "thank you", "answer": "You're welcome."},
-  {"question": "what is your name", "answer": "I'm an AI chatbot created with FastAPI."}
+  {"question":"hi","answer":"Hi there."},
+  {"question":"hello","answer":"Hello. How can I help you today?"},
+  {"question":"hey","answer":"Hey. What can I do for you?"},
+  {"question":"how are you","answer":"I don’t have feelings, but I’m working."},
+  {"question":"your name","answer":"I’m an AI chatbot built with FastAPI and a simple retriever."},
+  {"question":"what is your name","answer":"I’m an AI chatbot built with FastAPI and a simple retriever."},
+  {"question":"who made you","answer":"This demo was set up by Yash using FastAPI + GitHub Pages + Render."},
+  {"question":"what can you do","answer":"I answer basic questions from my dataset and simple rule-based intents."},
+  {"question":"tell me about this project","answer":"Frontend on GitHub Pages, backend on Render. Retrieval uses TF-IDF over a small Q/A set. Minimal and fast."},
+  {"question":"bye","answer":"Goodbye. Have a nice day."},
+  {"question":"thanks","answer":"You’re welcome."},
+  {"question":"thank you","answer":"You’re welcome."}
 ]
