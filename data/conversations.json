@@ -1,0 +1,7 @@
+[
+  {"question": "hello", "answer": "Hello. How can I help you today?"},
+  {"question": "hi", "answer": "Hi there! How are you doing?"},
+  {"question": "bye", "answer": "Goodbye. Have a nice day."},
+  {"question": "thank you", "answer": "You're welcome."},
+  {"question": "what is your name", "answer": "I'm an AI chatbot created with FastAPI."}
+]
