@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const API_URL = 'https://ai-chatbot-2-osma.onrender.com/api/chat'; // Render API
+  const API_URL = 'https://ai-chatbot-yr.onrender.com/api/chat';
+ // Render API
 
   const input = document.getElementById('input');
   const sendButton = document.getElementById('send');
@@ -56,4 +57,5 @@ document.addEventListener('DOMContentLoaded', () => {
   // starter msg
   append('Hi. Ask me something like "hello" or "bye".');
 });
+
 
