@@ -56,3 +56,4 @@ document.addEventListener('DOMContentLoaded', () => {
   // starter msg
   append('Hi. Ask me something like "hello" or "bye".');
 });
+
